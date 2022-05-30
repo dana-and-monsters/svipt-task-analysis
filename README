@@ -1,0 +1,3 @@
+"Transcranial direct current stimulation leads to faster acquisition of motor skills, but effects are not maintained at retention"
+
+This project contains the python script that took the data collected from the SVIPT task and provided a score for each participant. 
